@@ -20,5 +20,5 @@ if array_sum != []:
     answer=result/len(array_sum)
     print(answer)
 else:
-    print("В массиве нет нечетных чиcел заканчивающихся на 7")
+    print("В массиве нет чиcел заканчивающихся на 7")
 
